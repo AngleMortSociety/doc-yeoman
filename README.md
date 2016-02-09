@@ -9,8 +9,8 @@ Ce document est sous licence [**Creative Commons**][] (CC BY-SA). Toute personne
 
 ## Contributeurs
 
-- kCell                                 : écriture, traduction, documentation, tests
-- Jean-Baptiste Lacour, alias Moonjb    : écriture, traduction, relecture, correction
+- kCell                                 	: écriture, traduction, documentation, tests
+- Jean-Baptiste Lacour, alias Moussaraser	: écriture, traduction, relecture, correction
 
 ## A faire
 
