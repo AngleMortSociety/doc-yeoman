@@ -63,13 +63,13 @@ La ligne de commande interactive vous proposera un certain nombre de choix afin 
 
 Le générateur `webapp` est le plugin considéré comme le plus simple pour démarrer une application web. Il existe également des générateurs de frameworks qui peuvent être utilisés pour échafauder un projet, des modèles, des contrôleurs, etc.
 
-Afin de lister tous les générateurs disponibles sur le système :
+Pour obtenir de l'aide sur la commande et lister tous les générateurs disponibles sur le système :
 
 ```bash
 yo --help
 ```
 
-Il est aussi possible de lancer la commande `yo` sans argument pour obtenir la liste des générateurs et en choisir un pour créer un nouveau projet. A partir de ce menu, il est également possible d'obtenir de l'aide ou de faire une mise à jour des modules installés sur le système.
+Il est aussi possible de lancer la commande `yo` sans argument pour obtenir la liste des générateurs et en choisir un pour créer un nouveau projet. A partir de ce menu, il est également possible d'obtenir de l'aide, d'installer de nouveaux générateurs ou de faire une mise à jour des modules installés sur le système.
 
 [Yeoman]: http://yeoman.io "Yeoman - Site officiel"
 [Node.js]: http://nodejs.org "Node.js - Site officiel"
